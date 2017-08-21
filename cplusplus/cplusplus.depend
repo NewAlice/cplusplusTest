@@ -1,0 +1,206 @@
+# depslib dependency file v1.0
+1485141857 source:c:\studying\test.cpp
+	<iostream>
+	<string>
+	<initializer_list>
+
+1303538190 source:c:\studying\cplusplus\spreadsheet\alternativefunctionsyntax\alternativefunctionsyntax.cpp
+	<iostream>
+
+1304146308 source:c:\studying\cplusplus\spreadsheet\constexpr\constexpr.cpp
+
+1303459170 source:c:\studying\cplusplus\spreadsheet\constexpr\constexprclasses.cpp
+	<iostream>
+
+1303542140 source:c:\studying\cplusplus\spreadsheet\explicitconversionoperators\explicitconversionoperators.cpp
+	<iostream>
+
+1312457044 source:c:\studying\cplusplus\spreadsheet\functionobjects\arithmetic.cpp
+	<iostream>
+	<numeric>
+	<vector>
+	<cmath>
+	<functional>
+
+1290088350 source:c:\studying\cplusplus\spreadsheet\functionobjects\bind.cpp
+	<iostream>
+	<string>
+	<functional>
+
+1312460696 source:c:\studying\cplusplus\spreadsheet\functionobjects\binders.cpp
+	<algorithm>
+	<vector>
+	<iostream>
+	<functional>
+
+1312464064 source:c:\studying\cplusplus\spreadsheet\functionobjects\emptystring.cpp
+	<functional>
+	<algorithm>
+	<string>
+	<vector>
+	<iostream>
+
+1312464076 source:c:\studying\cplusplus\spreadsheet\functionobjects\emptystringptr.cpp
+	<functional>
+	<algorithm>
+	<string>
+	<vector>
+	<iostream>
+
+1304388908 source:c:\studying\cplusplus\spreadsheet\functionobjects\isnumber.cpp
+	<functional>
+	<algorithm>
+	<cctype>
+	<string>
+	<iostream>
+
+1304312712 source:c:\studying\cplusplus\spreadsheet\functionobjects\logicalfunctors.cpp
+	<iostream>
+	<numeric>
+	<vector>
+	<cmath>
+	<functional>
+
+1312462594 source:c:\studying\cplusplus\spreadsheet\functionobjects\negators.cpp
+	<algorithm>
+	<vector>
+	<iostream>
+	<functional>
+
+1304410526 source:c:\studying\cplusplus\spreadsheet\functionobjects\queuegreater.cpp
+	<queue>
+	<functional>
+	<iostream>
+
+1304410496 source:c:\studying\cplusplus\spreadsheet\functionobjects\queueless.cpp
+	<queue>
+	<iostream>
+
+1304389652 source:c:\studying\cplusplus\spreadsheet\functionobjects\writingfunctionobject.cpp
+	<functional>
+	<algorithm>
+	<cctype>
+	<string>
+	<iostream>
+
+1312504012 source:c:\studying\cplusplus\spreadsheet\functionobjects\writingfunctionobjectlocal.cpp
+	<functional>
+	<algorithm>
+	<cctype>
+	<string>
+	<iostream>
+
+1472016907 source:c:\studying\cplusplus\spreadsheet\hide\default.cpp
+	"default.h"
+
+1472016870 c:\studying\cplusplus\spreadsheet\hide\default.h
+	<iostream>
+
+1472090937 source:c:\studying\cplusplus\spreadsheet\hide\hide.cpp
+	"hide.h"
+
+1482395688 c:\studying\cplusplus\spreadsheet\hide\hide.h
+	<iostream>
+
+1303006632 source:c:\studying\cplusplus\spreadsheet\initializerlistctor\initializerlistctor.cpp
+	<iostream>
+	<initializer_list>
+	<stdexcept>
+	<vector>
+
+1281183218 source:c:\studying\cplusplus\spreadsheet\initializerlists\initializerlists.cpp
+	<iostream>
+	<initializer_list>
+
+1304351598 source:c:\studying\cplusplus\spreadsheet\lambdas\callback.cpp
+	<vector>
+	<iostream>
+	<functional>
+	<algorithm>
+
+1304351686 source:c:\studying\cplusplus\spreadsheet\lambdas\count_if.cpp
+	<vector>
+	<algorithm>
+	<iostream>
+
+1312455816 source:c:\studying\cplusplus\spreadsheet\lambdas\count_if_ref.cpp
+	<vector>
+	<algorithm>
+	<iostream>
+
+1304353542 source:c:\studying\cplusplus\spreadsheet\lambdas\for_each.cpp
+	<vector>
+	<algorithm>
+	<iostream>
+
+1304352472 source:c:\studying\cplusplus\spreadsheet\lambdas\generate.cpp
+	<vector>
+	<algorithm>
+	<iostream>
+
+1312453484 source:c:\studying\cplusplus\spreadsheet\lambdas\lambdafunctionpointer.cpp
+	<string>
+	<iostream>
+
+1312453268 source:c:\studying\cplusplus\spreadsheet\lambdas\lambdainvocation.cpp
+	<string>
+	<iostream>
+
+1304349966 source:c:\studying\cplusplus\spreadsheet\lambdas\multiplyby2lambda.cpp
+	<iostream>
+	<functional>
+
+1303538594 source:c:\studying\cplusplus\spreadsheet\nullpointerconstant\nullpointerconstant.cpp
+	<iostream>
+
+1304147886 source:c:\studying\cplusplus\spreadsheet\references\oddsevensptrs.cpp
+	<iostream>
+
+1304147892 source:c:\studying\cplusplus\spreadsheet\references\oddsevensrefs.cpp
+	<iostream>
+
+1308047160 source:c:\studying\cplusplus\spreadsheet\references\oddsevensvector.cpp
+	<iostream>
+	<vector>
+
+1485077663 source:c:\studying\cplusplus\spreadsheet\references\referencedatamembers.cpp
+	<iostream>
+
+1485086621 source:c:\studying\cplusplus\spreadsheet\references\referenceparameters.cpp
+	<iostream>
+
+1304147880 source:c:\studying\cplusplus\spreadsheet\references\referencevariables.cpp
+
+1303450160 source:c:\studying\cplusplus\spreadsheet\references\rvaluereferences.cpp
+	<iostream>
+
+1311121228 source:c:\studying\cplusplus\spreadsheet\shared_ptr\shared_ptr_double_delete.cpp
+	<memory>
+	<iostream>
+
+1306408214 source:c:\studying\cplusplus\spreadsheet\shared_ptr\shared_ptr_file.cpp
+	<iostream>
+	<memory>
+	<cstdio>
+
+1304147876 source:c:\studying\cplusplus\spreadsheet\spreadsheetmovesemantics\spreadsheettest.cpp
+	<iostream>
+	<vector>
+	"Spreadsheet.h"
+
+1303024174 c:\studying\cplusplus\spreadsheet\spreadsheetmovesemantics\spreadsheet.h
+	"SpreadsheetCell.h"
+
+1280712414 c:\studying\cplusplus\spreadsheet\spreadsheetmovesemantics\spreadsheetcell.h
+	<string>
+
+1485142347 source:c:\studying\cplusplus\spreadsheet\destructors\destructorheapexamples.cpp
+
+1485142531 source:c:\studying\cplusplus\spreadsheet\shared_ptr\shared_ptr_malloc_int.cpp
+	<memory>
+	<stdlib.h>
+
+1311083584 source:c:\studying\cplusplus\spreadsheet\shared_ptr\shared_ptr_return_from_function.cpp
+	<iostream>
+	<memory>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1485163034 source:c:\studying\cplusplus\test\main.cpp
+	<iostream>
+
+1303459170 source:c:\studying\cplusplus\spreadsheet\constexpr\constexprclasses.cpp
+	<iostream>
+

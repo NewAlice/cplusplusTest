@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="cplusplus" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/cplusplus" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/cplusplus" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../../test.cpp" />
+		<Unit filename="../cplusplus11/explicitlyDefaultConstructor.h" />
+		<Unit filename="../cplusplus11/explicitlyDeleteConstructor.h" />
+		<Unit filename="../spreadsheet/AlternativeFunctionSyntax/AlternativeFunctionSyntax.cpp" />
+		<Unit filename="../spreadsheet/Constexpr/constexpr.cpp" />
+		<Unit filename="../spreadsheet/Constexpr/constexprClasses.cpp" />
+		<Unit filename="../spreadsheet/Destructors/DestructorHeapExamples.cpp" />
+		<Unit filename="../spreadsheet/ExplicitConversionOperators/ExplicitConversionOperators.cpp" />
+		<Unit filename="../spreadsheet/FunctionObjects/Arithmetic.cpp" />
+		<Unit filename="../spreadsheet/FunctionObjects/Binders.cpp" />
+		<Unit filename="../spreadsheet/FunctionObjects/EmptyString.cpp" />
+		<Unit filename="../spreadsheet/FunctionObjects/EmptyStringPtr.cpp" />
+		<Unit filename="../spreadsheet/FunctionObjects/IsNumber.cpp" />
+		<Unit filename="../spreadsheet/FunctionObjects/LogicalFunctors.cpp" />
+		<Unit filename="../spreadsheet/FunctionObjects/Negators.cpp" />
+		<Unit filename="../spreadsheet/FunctionObjects/QueueGreater.cpp" />
+		<Unit filename="../spreadsheet/FunctionObjects/QueueLess.cpp" />
+		<Unit filename="../spreadsheet/FunctionObjects/WritingFunctionObject.cpp" />
+		<Unit filename="../spreadsheet/FunctionObjects/WritingFunctionObjectLocal.cpp" />
+		<Unit filename="../spreadsheet/FunctionObjects/bind.cpp" />
+		<Unit filename="../spreadsheet/InitializerListCtor/InitializerListCtor.cpp" />
+		<Unit filename="../spreadsheet/InitializerLists/InitializerLists.cpp" />
+		<Unit filename="../spreadsheet/Lambdas/LambdaFunctionPointer.cpp" />
+		<Unit filename="../spreadsheet/Lambdas/LambdaInvocation.cpp" />
+		<Unit filename="../spreadsheet/Lambdas/callback.cpp" />
+		<Unit filename="../spreadsheet/Lambdas/count_if.cpp" />
+		<Unit filename="../spreadsheet/Lambdas/count_if_ref.cpp" />
+		<Unit filename="../spreadsheet/Lambdas/for_each.cpp" />
+		<Unit filename="../spreadsheet/Lambdas/generate.cpp" />
+		<Unit filename="../spreadsheet/Lambdas/multiplyBy2Lambda.cpp" />
+		<Unit filename="../spreadsheet/NullPointerConstant/NullPointerConstant.cpp" />
+		<Unit filename="../spreadsheet/References/OddsEvensPtrs.cpp" />
+		<Unit filename="../spreadsheet/References/OddsEvensRefs.cpp" />
+		<Unit filename="../spreadsheet/References/OddsEvensVector.cpp" />
+		<Unit filename="../spreadsheet/References/ReferenceDataMembers.cpp" />
+		<Unit filename="../spreadsheet/References/ReferenceParameters.cpp" />
+		<Unit filename="../spreadsheet/References/ReferenceVariables.cpp" />
+		<Unit filename="../spreadsheet/References/RvalueReferences.cpp" />
+		<Unit filename="../spreadsheet/SpreadsheetCellAssign/SpreadsheetCell.h" />
+		<Unit filename="../spreadsheet/SpreadsheetCellCopyCtors/SpreadsheetCell.cpp" />
+		<Unit filename="../spreadsheet/SpreadsheetCellCopyCtors/SpreadsheetCell.h" />
+		<Unit filename="../spreadsheet/SpreadsheetCellCtors/SpreadsheetCell.cpp" />
+		<Unit filename="../spreadsheet/SpreadsheetCellCtors/SpreadsheetCell.h" />
+		<Unit filename="../spreadsheet/SpreadsheetCellCtors/SpreadsheetCellTest.cpp" />
+		<Unit filename="../spreadsheet/SpreadsheetCellDefaultCtors/SpreadsheetCell.cpp" />
+		<Unit filename="../spreadsheet/SpreadsheetCellDefaultCtors/SpreadsheetCell.h" />
+		<Unit filename="../spreadsheet/SpreadsheetCellDefaultCtors/SpreadsheetCellInitList.cpp" />
+		<Unit filename="../spreadsheet/SpreadsheetCellDefaultCtors/SpreadsheetCellTest.cpp" />
+		<Unit filename="../spreadsheet/SpreadsheetCellDefultCtors/SpreadsheetCell.h" />
+		<Unit filename="../spreadsheet/SpreadsheetCellNumText/SpreadsheetCellHeap.cpp" />
+		<Unit filename="../spreadsheet/SpreadsheetCellNumText/SpreadsheetCellHeapAlternate.cpp" />
+		<Unit filename="../spreadsheet/SpreadsheetCellNumText/SpreadsheetCellHeapSmartPointer.cpp" />
+		<Unit filename="../spreadsheet/SpreadsheetCellNumText/SpreadsheetCellTest.cpp" />
+		<Unit filename="../spreadsheet/SpreadsheetMoveSemantics/Spreadsheet.cpp" />
+		<Unit filename="../spreadsheet/SpreadsheetMoveSemantics/Spreadsheet.h" />
+		<Unit filename="../spreadsheet/SpreadsheetMoveSemantics/SpreadsheetCell.cpp" />
+		<Unit filename="../spreadsheet/SpreadsheetMoveSemantics/SpreadsheetCell.h" />
+		<Unit filename="../spreadsheet/SpreadsheetMoveSemantics/SpreadsheetTest.cpp" />
+		<Unit filename="../spreadsheet/UniformInitialization/UniformInitialization.cpp" />
+		<Unit filename="../spreadsheet/hide/default.cpp" />
+		<Unit filename="../spreadsheet/hide/default.h" />
+		<Unit filename="../spreadsheet/hide/hide.cpp" />
+		<Unit filename="../spreadsheet/hide/hide.h" />
+		<Unit filename="../spreadsheet/shared_ptr/shared_ptr_double_delete.cpp" />
+		<Unit filename="../spreadsheet/shared_ptr/shared_ptr_file.cpp" />
+		<Unit filename="../spreadsheet/shared_ptr/shared_ptr_malloc_int.cpp" />
+		<Unit filename="../spreadsheet/shared_ptr/shared_ptr_return_from_function.cpp" />
+		<Unit filename="../spreadsheet/thread/ThreadFunction.cpp" />
+		<Unit filename="../spreadsheet/thread/ThreadFunctionObject.cpp" />
+		<Unit filename="../spreadsheet/thread/ThreadLambda.cpp" />
+		<Unit filename="../spreadsheet/thread/ThreadMemFunc.cpp" />
+		<Unit filename="../spreadsheet/unambiguous/SpreadsheetCell.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
